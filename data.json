@@ -1,0 +1,56 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "background_img": "service1.jpg",
+        "img": "plus.svg",
+        "suptitle": "ANNUAL CHECKUPS FROM YOUR PHYSICIAN KEEP YOU IN GOOD HEALTH",
+        "title": "DIAGNOSTIC"
+      },
+      {
+        "id": 2,
+        "background_img": "service2.jpg",
+        "img": "plus.svg",
+        "suptitle": "ANNUAL CHECKUPS FROM YOUR PHYSICIAN KEEP YOU IN GOOD HEALTH",
+        "title": "TIRES & WHEELS"
+      },
+      {
+        "id": 3,
+        "background_img": "service3.jpg",
+        "img": "plus.svg",
+        "suptitle": "ANNUAL CHECKUPS FROM YOUR PHYSICIAN KEEP YOU IN GOOD HEALTH",
+        "title": "ENGINES"
+      },
+      {
+        "id": 4,
+        "background_img": "service4.jpeg",
+        "img": "plus.svg",
+        "suptitle": "ANNUAL CHECKUPS FROM YOUR PHYSICIAN KEEP YOU IN GOOD HEALTH",
+        "title": "OIL CHANGE"
+      },
+      {
+        "id": 5,
+        "background_img": "service5.jpg",
+        "img": "plus.svg",
+        "suptitle": "ANNUAL CHECKUPS FROM YOUR PHYSICIAN KEEP YOU IN GOOD HEALTH",
+        "title": "SPARE PARTS"
+      },
+      {
+        "id": 6,
+        "background_img": "service6.jpg",
+        "img": "plus.svg",
+        "suptitle": "ANNUAL CHECKUPS FROM YOUR PHYSICIAN KEEP YOU IN GOOD HEALTH",
+        "title": "WASHING"
+      }
+    ],
+    "posts": [
+      {
+        "name": "my first ",
+        "lastName": "app on REACT",
+        "email": "firstReactApp@react.ru",
+        "phone": "1",
+        "message": "MY FIRST REACT APP",
+        "id": 1
+      }
+    ]
+  }
